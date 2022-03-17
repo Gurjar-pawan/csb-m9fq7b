@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://gurjar-pawan.github.io/csb-m9fq7b/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/main.b32575ef.chunk.js",
-    "main.js.map": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/main.b32575ef.chunk.js.map",
+    "main.js": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/main.15384ff4.chunk.js",
+    "main.js.map": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/main.15384ff4.chunk.js.map",
     "runtime-main.js": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/runtime-main.2ca172cf.js",
     "runtime-main.js.map": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/runtime-main.2ca172cf.js.map",
     "static/js/2.c6bfcf80.chunk.js": "https://gurjar-pawan.github.io/csb-m9fq7b/static/js/2.c6bfcf80.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2ca172cf.js",
     "static/js/2.c6bfcf80.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.b32575ef.chunk.js"
+    "static/js/main.15384ff4.chunk.js"
   ]
 }
